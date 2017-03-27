@@ -1,0 +1,57 @@
+.list-group li {
+    list-style: none;
+}
+.panel-info, .panel-rating, .panel-more1 {
+    float: left;
+    margin: 0 10px;
+}
+
+#car-search {
+	margin-bottom: 15px;
+}
+
+/* modified */
+#header {
+	background:#7AC840 !important;
+}
+#header img {
+	width:100% !important;
+}
+.navbar {
+	display:none !important;
+}
+.row {
+	text-align:center !important;
+}
+.col-xs-2,
+.col-xs-1 {
+	width:65% !important;
+}
+.form-horizontal {
+	margin-top:20px !important;
+}
+.form-horizontal label {
+	width:35% !important;
+}
+.form-horizontal .btn-primary,
+.paysuccess .btn-primary:active,
+.paysuccess .btn-primary,
+.paysuccess .btn-primary {
+	background:#7AC840 !important;
+	border:1px solid #e7e7e7 !important;
+	box-shadow:0 1px 4px 0 rgba(0,0,0,0.1) !important;
+	font-size:16px !important;
+	padding:10px !important;
+	width:100% !important;
+}
+footer {
+	background-color:#f8f8f8 !important;
+	border:1px solid #e7e7e7 !important;
+	height:50px !important;
+	margin-top:20px !important;
+	padding:15px !important;
+}
+.paysuccess {
+	margin:100px auto !important;
+	text-align:center !important;
+}
